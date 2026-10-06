@@ -56,19 +56,6 @@ export function NeuralBackground() {
           node.vy = Math.max(-0.65, Math.min(0.65, node.vy));
         }
 
-        for (let peerIndex = index + 1; peerIndex < nodes.length; peerIndex += 1) {
-          const peer = nodes[peerIndex];
-          if (!peer) continue;
-          const distance = Math.hypot(node.x - peer.x, node.y - peer.y);
-          if (distance < 150) {
-            context.beginPath();
-            context.moveTo(node.x, node.y);
-            context.lineTo(peer.x, peer.y);
-            context.strokeStyle = `oklch(0.73 0.155 225 / ${0.2 * (1 - distance / 150)})`;
-            context.lineWidth = 0.7;
-            context.stroke();
-          }
-        }
 
         context.beginPath();
         context.arc(node.x, node.y, node.radius, 0, Math.PI * 2);
