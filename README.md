@@ -6,7 +6,7 @@ This portfolio showcases my **skills, projects, coding journey, internship exper
 
 ## 🌐 Live Portfolio
 
-🔗 **[Visit My Portfolio](YOUR_PORTFOLIO_LINK)**
+🔗 rajasekaranportfolio.lovable.app
 
 ## 👨‍💻 About Me
 
