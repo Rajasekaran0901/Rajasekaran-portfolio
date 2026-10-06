@@ -85,4 +85,4 @@ I'm looking for opportunities as a **Data Analyst or Software Developer**, where
 
 ⭐ If you find my portfolio interesting, feel free to explore my projects and coding journey!
 
-**Made with ❤️ by Rajasekaran S**
+**Made  by Rajasekaran S**
