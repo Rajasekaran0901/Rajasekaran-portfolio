@@ -46,11 +46,9 @@ function SectionTitle({ number, children }: { number: string; children: React.Re
 function Portfolio() {
   return (
     <main className="relative min-h-screen bg-background text-foreground">
-      <div aria-hidden="true" className="pointer-events-none fixed inset-[-8%] z-0 living-grid opacity-30" />
       <div aria-hidden="true" className="pointer-events-none fixed left-0 top-0 z-0 size-[28rem] roaming-light-one" />
       <div aria-hidden="true" className="pointer-events-none fixed left-0 top-0 z-0 size-[34rem] roaming-light-two" />
       <NeuralBackground />
-      <div aria-hidden="true" className="pointer-events-none fixed inset-x-0 top-0 z-0 h-px scan-beam opacity-60" />
 
       <header className="fixed inset-x-0 top-0 z-40 border-b border-border bg-background/80 backdrop-blur-xl">
         <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-5 lg:px-8">
