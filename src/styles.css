@@ -176,6 +176,26 @@
   to { transform: translateY(115vh); }
 }
 
+@keyframes roaming-light-one {
+  0% { transform: translate3d(-18vw, 8vh, 0) scale(0.8); opacity: 0.25; }
+  30% { transform: translate3d(48vw, 52vh, 0) scale(1.15); opacity: 0.7; }
+  65% { transform: translate3d(82vw, 12vh, 0) scale(0.9); opacity: 0.4; }
+  100% { transform: translate3d(-18vw, 8vh, 0) scale(0.8); opacity: 0.25; }
+}
+
+@keyframes roaming-light-two {
+  0% { transform: translate3d(88vw, 70vh, 0) scale(1); opacity: 0.35; }
+  40% { transform: translate3d(35vw, 5vh, 0) scale(1.3); opacity: 0.65; }
+  75% { transform: translate3d(-8vw, 62vh, 0) scale(0.85); opacity: 0.3; }
+  100% { transform: translate3d(88vw, 70vh, 0) scale(1); opacity: 0.35; }
+}
+
+@keyframes particle-drift {
+  0% { transform: translate3d(0, 12vh, 0); }
+  50% { transform: translate3d(4vw, -6vh, 0); }
+  100% { transform: translate3d(0, 12vh, 0); }
+}
+
 @utility living-grid {
   background-image:
     linear-gradient(var(--line-bright) 1px, transparent 1px),
@@ -190,9 +210,30 @@
   animation: scan-line 9s linear infinite;
 }
 
+@utility roaming-light-one {
+  background: radial-gradient(circle, color-mix(in oklab, var(--color-primary) 42%, transparent) 0%, transparent 68%);
+  filter: blur(18px);
+  animation: roaming-light-one 17s ease-in-out infinite;
+}
+
+@utility roaming-light-two {
+  background: radial-gradient(circle, color-mix(in oklab, var(--color-primary) 32%, transparent) 0%, transparent 70%);
+  filter: blur(24px);
+  animation: roaming-light-two 23s ease-in-out infinite;
+}
+
+@utility roaming-particles {
+  background-image:
+    radial-gradient(circle, var(--color-primary) 1px, transparent 2px),
+    radial-gradient(circle, var(--color-signal) 1px, transparent 2px);
+  background-position: 0 0, 38px 42px;
+  background-size: 86px 86px, 124px 124px;
+  animation: particle-drift 14s ease-in-out infinite;
+}
+
 @utility text-balance { text-wrap: balance; }
 
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
-  .living-grid, .scan-beam { animation: none; }
+  .living-grid, .scan-beam, .roaming-light-one, .roaming-light-two, .roaming-particles { animation: none; }
 }
