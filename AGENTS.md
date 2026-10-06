@@ -8,3 +8,7 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+## Project architecture
+
+- Keep the portfolio as a single-page experience at `/`; its section navigation uses anchored links because all resume content belongs to one continuous story.
