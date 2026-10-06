@@ -12,3 +12,4 @@
 ## Project architecture
 
 - Keep the portfolio as a single-page experience at `/`; its section navigation uses anchored links because all resume content belongs to one continuous story.
+- Render the living neural-network backdrop with a fixed canvas so its nodes can roam and respond to pointer movement without affecting page layout.
