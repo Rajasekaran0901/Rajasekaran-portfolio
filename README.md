@@ -6,7 +6,7 @@ This portfolio showcases my **skills, projects, coding journey, internship exper
 
 ## 🌐 Live Portfolio
 
-🔗 rajasekaranportfolio.lovable.app
+🔗 [View My Portfolio](https://rajasekaranportfolio.lovable.app)
 
 ## 👨‍💻 About Me
 
@@ -77,7 +77,7 @@ I'm looking for opportunities as a **Data Analyst or Software Developer**, where
 
 ## 📫 Connect With Me
 
-* 🔗 **GitHub:** [Rajasekaran0901](YOUR_GITHUB_LINK)
+* 🔗 **GitHub:** [Rajasekaran0901](https://github.com/Rajasekaran0901)
 * 🔗 **LinkedIn:** [Rajasekaran S](YOUR_LINKEDIN_LINK)
 * 💻 **LeetCode:** [My LeetCode Profile](YOUR_LEETCODE_LINK)
 * 📄 **Resume:** [View Resume](YOUR_RESUME_LINK)
