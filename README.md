@@ -1,26 +1,89 @@
-# My Career Canvas
+# 👋 Rajasekaran S — Personal Portfolio
 
-This is my resume so create me the unic portfolio and i need the fomat like profile,education,tech skills,internship,projects,achievements & certifications,soft skills and the background i need a blue live roaming depends upon that give the attractive theme
+Welcome to my personal portfolio repository! 🚀
 
-This project was built with [Lovable](https://lovable.dev).
+This portfolio showcases my **skills, projects, coding journey, internship experience, and learning journey** as a final-year B.Tech Artificial Intelligence and Data Science student.
 
-**Live app**: https://rajasekaranportfolio.lovable.app
+## 🌐 Live Portfolio
 
-## Build with Lovable
+🔗 **[Visit My Portfolio](YOUR_PORTFOLIO_LINK)**
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/4a90e402-d0bd-4bbc-8eab-54b5170823cb).
+## 👨‍💻 About Me
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+I'm **Rajasekaran S**, a final-year B.Tech Artificial Intelligence and Data Science student from Karur, Tamil Nadu.
 
-## Development
+I'm interested in **Data Analytics and Software Development** and enjoy building practical projects using modern technologies.
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+I'm continuously improving my technical, problem-solving, and communication skills to begin my career in the technology industry.
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+## 🛠️ Skills
+
+* **Programming:** Java, Python
+* **Database:** SQL
+* **Data Analytics:** Power BI, Excel
+* **Web Development:** HTML, CSS, JavaScript, Flask
+* **Tools:** Git, GitHub, VS Code
+* **Other:** Data Visualization, Problem Solving
+
+## 🚀 Featured Projects
+
+### 💰 Budget Planning Agent
+
+An AI-powered budget planning project that helps users categorize income and expenses and understand their financial activities.
+
+**Tech Stack:** Python, Flask, HTML, CSS, SQL, Chart.js
+
+### 🍱 Smart Food Wastage Redistribution Using Demand Forecasting
+
+A project focused on reducing food wastage by forecasting demand and supporting better food redistribution.
+
+### 📊 Financial Health Dashboard for SMEs
+
+An interactive Power BI dashboard designed to analyze revenue, profit, assets, and cash flow for small and medium-sized businesses.
+
+**Tools:** Power BI, Excel
+
+## 💼 Internship
+
+**Web Development Intern — We Touch Technologies**
+
+*June 2024 – July 2024*
+
+Gained practical experience in web development and worked on concepts related to building web-based applications.
+
+## 📚 Education
+
+**B.Tech — Artificial Intelligence and Data Science**
+
+VES Engineering College, Karur
+
+Currently pursuing final year.
+
+## 💻 Coding Journey
+
+I regularly practice programming problems to improve my logical thinking and problem-solving skills.
+
+* Java
+* Arrays
+* Strings
+* HashMap
+* ArrayList
+* Basic DSA
+* LeetCode Problems
+
+## 🎯 Career Goal
+
+I'm looking for opportunities as a **Data Analyst or Software Developer**, where I can apply my technical skills, learn from experienced professionals, and contribute to real-world projects.
+
+## 📫 Connect With Me
+
+* 🔗 **GitHub:** [Rajasekaran0901](YOUR_GITHUB_LINK)
+* 🔗 **LinkedIn:** [Rajasekaran S](YOUR_LINKEDIN_LINK)
+* 💻 **LeetCode:** [My LeetCode Profile](YOUR_LEETCODE_LINK)
+* 📄 **Resume:** [View Resume](YOUR_RESUME_LINK)
+
+---
+
+⭐ If you find my portfolio interesting, feel free to explore my projects and coding journey!
+
+**Made with ❤️ by Rajasekaran S**
