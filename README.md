@@ -79,7 +79,7 @@ I'm looking for opportunities as a **Data Analyst or Software Developer**, where
 
 * 🔗 **GitHub:** [Rajasekaran0901](https://github.com/Rajasekaran0901)
 * 🔗 **LinkedIn:** [Rajasekaran S](YOUR_LINKEDIN_LINK)
-* 💻 **LeetCode:** [My LeetCode Profile](YOUR_LEETCODE_LINK)
+* 💻 **LeetCode:** [Rajasekaran_01](https://leetcode.com/u/Rajasekaran_01/)
 * 📄 **Resume:** [View Resume](YOUR_RESUME_LINK)
 
 ---
